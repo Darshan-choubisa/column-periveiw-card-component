@@ -56,7 +56,6 @@ main{
 
 .content h1{
     margin: 30px 0 30px 0;
-    letter-spacing: -2px;
     color: var(--Very-light-gray);
     font-family: "Big Shoulders Display", sans-serif;
 }
